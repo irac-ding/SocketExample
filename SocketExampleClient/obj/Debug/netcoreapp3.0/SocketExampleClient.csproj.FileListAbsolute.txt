@@ -8,3 +8,14 @@ C:\Users\tvu\source\repos\SocketExample\SocketExampleClient\obj\Debug\netcoreapp
 C:\Users\tvu\source\repos\SocketExample\SocketExampleClient\obj\Debug\netcoreapp3.0\SocketExampleClient.AssemblyInfo.cs
 C:\Users\tvu\source\repos\SocketExample\SocketExampleClient\obj\Debug\netcoreapp3.0\SocketExampleClient.dll
 C:\Users\tvu\source\repos\SocketExample\SocketExampleClient\obj\Debug\netcoreapp3.0\SocketExampleClient.pdb
+C:\SourceR\SocketExample\SocketExampleClient\bin\Debug\netcoreapp3.0\SocketExampleClient.exe
+C:\SourceR\SocketExample\SocketExampleClient\bin\Debug\netcoreapp3.0\SocketExampleClient.deps.json
+C:\SourceR\SocketExample\SocketExampleClient\bin\Debug\netcoreapp3.0\SocketExampleClient.runtimeconfig.json
+C:\SourceR\SocketExample\SocketExampleClient\bin\Debug\netcoreapp3.0\SocketExampleClient.runtimeconfig.dev.json
+C:\SourceR\SocketExample\SocketExampleClient\bin\Debug\netcoreapp3.0\SocketExampleClient.dll
+C:\SourceR\SocketExample\SocketExampleClient\bin\Debug\netcoreapp3.0\SocketExampleClient.pdb
+C:\SourceR\SocketExample\SocketExampleClient\obj\Debug\netcoreapp3.0\SocketExampleClient.csprojAssemblyReference.cache
+C:\SourceR\SocketExample\SocketExampleClient\obj\Debug\netcoreapp3.0\SocketExampleClient.AssemblyInfoInputs.cache
+C:\SourceR\SocketExample\SocketExampleClient\obj\Debug\netcoreapp3.0\SocketExampleClient.AssemblyInfo.cs
+C:\SourceR\SocketExample\SocketExampleClient\obj\Debug\netcoreapp3.0\SocketExampleClient.dll
+C:\SourceR\SocketExample\SocketExampleClient\obj\Debug\netcoreapp3.0\SocketExampleClient.pdb
