@@ -1,0 +1,11 @@
+C:\Users\tvu\source\repos\SocketExample\SocketExampleServer\bin\Debug\netcoreapp3.0\SocketExampleServer.exe
+C:\Users\tvu\source\repos\SocketExample\SocketExampleServer\bin\Debug\netcoreapp3.0\SocketExampleServer.deps.json
+C:\Users\tvu\source\repos\SocketExample\SocketExampleServer\bin\Debug\netcoreapp3.0\SocketExampleServer.runtimeconfig.json
+C:\Users\tvu\source\repos\SocketExample\SocketExampleServer\bin\Debug\netcoreapp3.0\SocketExampleServer.runtimeconfig.dev.json
+C:\Users\tvu\source\repos\SocketExample\SocketExampleServer\bin\Debug\netcoreapp3.0\SocketExampleServer.dll
+C:\Users\tvu\source\repos\SocketExample\SocketExampleServer\bin\Debug\netcoreapp3.0\SocketExampleServer.pdb
+C:\Users\tvu\source\repos\SocketExample\SocketExampleServer\obj\Debug\netcoreapp3.0\SocketExampleServer.csprojAssemblyReference.cache
+C:\Users\tvu\source\repos\SocketExample\SocketExampleServer\obj\Debug\netcoreapp3.0\SocketExampleServer.AssemblyInfoInputs.cache
+C:\Users\tvu\source\repos\SocketExample\SocketExampleServer\obj\Debug\netcoreapp3.0\SocketExampleServer.AssemblyInfo.cs
+C:\Users\tvu\source\repos\SocketExample\SocketExampleServer\obj\Debug\netcoreapp3.0\SocketExampleServer.dll
+C:\Users\tvu\source\repos\SocketExample\SocketExampleServer\obj\Debug\netcoreapp3.0\SocketExampleServer.pdb

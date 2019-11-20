@@ -1,0 +1,10 @@
+C:\Users\tvu\source\repos\SocketExample\SocketExampleClient\bin\Debug\netcoreapp3.0\SocketExampleClient.exe
+C:\Users\tvu\source\repos\SocketExample\SocketExampleClient\bin\Debug\netcoreapp3.0\SocketExampleClient.deps.json
+C:\Users\tvu\source\repos\SocketExample\SocketExampleClient\bin\Debug\netcoreapp3.0\SocketExampleClient.runtimeconfig.json
+C:\Users\tvu\source\repos\SocketExample\SocketExampleClient\bin\Debug\netcoreapp3.0\SocketExampleClient.runtimeconfig.dev.json
+C:\Users\tvu\source\repos\SocketExample\SocketExampleClient\bin\Debug\netcoreapp3.0\SocketExampleClient.dll
+C:\Users\tvu\source\repos\SocketExample\SocketExampleClient\bin\Debug\netcoreapp3.0\SocketExampleClient.pdb
+C:\Users\tvu\source\repos\SocketExample\SocketExampleClient\obj\Debug\netcoreapp3.0\SocketExampleClient.AssemblyInfoInputs.cache
+C:\Users\tvu\source\repos\SocketExample\SocketExampleClient\obj\Debug\netcoreapp3.0\SocketExampleClient.AssemblyInfo.cs
+C:\Users\tvu\source\repos\SocketExample\SocketExampleClient\obj\Debug\netcoreapp3.0\SocketExampleClient.dll
+C:\Users\tvu\source\repos\SocketExample\SocketExampleClient\obj\Debug\netcoreapp3.0\SocketExampleClient.pdb
